@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <h1>This is test refactor branch</h1>
       <h1>2nd Person pushed to master</h1>
       <h1>Vite + React</h1>
       <div className="card">
